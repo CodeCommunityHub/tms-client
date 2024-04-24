@@ -1,0 +1,40 @@
+/* Colors */
+.bg-primary {
+  background-color: #4f46e5; /* Primary color */
+}
+
+.bg-secondary {
+  background-color: #f3f4f6; /* Secondary color */
+}
+
+.text-primary {
+  color: #4f46e5; /* Primary color */
+}
+
+.text-secondary {
+  color: #6b7280; /* Secondary color */
+}
+
+/* Spacing */
+.spacing-small {
+  margin: 0.5rem;
+}
+
+.spacing-medium {
+  margin: 1rem;
+}
+
+.spacing-large {
+  margin: 1.5rem;
+}
+
+/* Typography */
+.font-heading {
+  font-family: "Poppins", sans-serif; /* Replace with your preferred font */
+  font-weight: 700;
+}
+
+.font-body {
+  font-family: "Roboto", sans-serif; /* Replace with your preferred font */
+  font-weight: 400;
+}
