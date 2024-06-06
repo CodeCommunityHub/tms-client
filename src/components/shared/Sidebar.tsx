@@ -1,6 +1,6 @@
 import classNames from "classnames";
 import React from "react";
-import { FcBarChart, FcStatistics } from "react-icons/fc";
+import { FcStatistics } from "react-icons/fc";
 import { HiOutlineLogout } from "react-icons/hi";
 import { Link, useLocation } from "react-router-dom";
 import {

@@ -2,7 +2,6 @@ import {
   HiOutlineAnnotation,
   HiOutlineCog,
   HiOutlineCube,
-  HiOutlineDocumentText,
   HiOutlineQuestionMarkCircle,
   HiOutlineShoppingCart,
   HiOutlineUsers,
